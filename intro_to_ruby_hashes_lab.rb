@@ -31,7 +31,7 @@ def monopoly_with_third_tier
     {
       pieces: 4,
       rent_in_dollars: {rent1: 25, rent2: 50, rent3: 100, rent4: 200},
-      :names => {name1: "a", name2: , name3: , name4: }
+      :names => {name1: "a", name2: "b", name3: "c", name4: "d"}
     }
   }
 end
